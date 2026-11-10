@@ -1,4 +1,4 @@
-# dev-bot
+# robert-dot-pklnx-bot
 
 Autonomous coding agent powered by [Claude Code](https://claude.com/claude-code), operated by [pklnx](https://github.com/pklnx).
 
